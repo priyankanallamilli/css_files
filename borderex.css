@@ -1,0 +1,3 @@
+.twoColourBorder {
+  border: 2px dashed red, blue;
+}
